@@ -20,7 +20,8 @@
 
 - git init
 - git branch -M main
-- git clone "url repository"
+- git clone "git://github.com/username/reponame.git" -- PUBLIC
+- git clone "git@github.com:username/repo.git" -- PRIVATE
 - git add . or *
 - git commit -m 'String'
 - git push origin main 
